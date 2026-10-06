@@ -1,0 +1,800 @@
+E:\Lokesh\DryFruits\Mines\bin\Debug\SKTRaders.exe.config
+E:\Lokesh\DryFruits\Mines\bin\Debug\SKTRaders.exe
+E:\Lokesh\DryFruits\Mines\bin\Debug\SKTRaders.pdb
+E:\Lokesh\DryFruits\Mines\obj\Debug\ResolveAssemblyReference.cache
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.AccountStatus.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.BackupDataBase.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.Billing.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.billingrep.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.Billrep.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.BillSearchReport.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.ChalanForm.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.ChallanDetailReport.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.Challanrep.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.ClientRep.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.ClientSearchReport.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.ChallanReport.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.ChallanDetailReport1.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.ConString.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.TaxInvoiceReportTransport.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.TaxInvoiceReportDuplicate.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.ExportXML.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.frm_BarcodePrint.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.PricerepBarcode.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.GstReportSale1.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.Databasebackup.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.GSTPurchaseReport.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.GstReportSale.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.GSTSaleReport.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.MaualChalanForm.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.PrintBarcode.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.PurchaseReport1.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.RawannaRep1.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.RawannaReport1.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.StockReport.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.TaxInvoiceRepor.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.ItemRep.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.ItemReport.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.TransporterRep.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.TransporterReport.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.PasswordChange.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.RawannaRep.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.RawannaReport.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.LabourMaster1.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.PurchaseDetailrep.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.PurchaseSummaryrep.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.PurchaseRegisterReport.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.Rowrep1.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.Rowrep.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.RowMaterialRegistrationReport.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.RawMaterialNew.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.EditBill.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.InvoiceReport.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.PrintPreview.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.SearchVoucher.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.ReceiptVoucher.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.DeliveredMaster.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.RawMaterial.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.SaleReport.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.DirectChallan.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.InventoryReport.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.TransportReport.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.ReceiveReport.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.IssueReport.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.ItemWiseSaleReport.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.ItemWiseReport.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.PurchaseReport.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.Process.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.Transport.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.Purchase.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.UnitMaster.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.Vechicle.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.FirmMaster.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.Form1.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.ItemMaster.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.LabourMaster.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.LabourRate.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.loginform.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.PaymentVoucher.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.pendingrep.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.PendingRepamt.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.PendingReports.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.Pricelist.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.PriceLst.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.Properties.Resources.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.pricerep.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.SessionMaster.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.varification.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.voucherrep.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.VoucherReport.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\DryFruits.csproj.GenerateResource.Cache
+E:\Lokesh\DryFruits\Mines\obj\Debug\SKTRaders.exe
+E:\Lokesh\DryFruits\Mines\obj\Debug\SKTRaders.pdb
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.HomePage.resources
+E:\Lokesh\DryFruits\Mines\obj\Debug\WelcomeFabric.ItemReport_New.resources
+I:\DryFruits\Mines\bin\Debug\SKTRaders.exe.config
+I:\DryFruits\Mines\obj\Debug\SKTRaders.exe
+I:\DryFruits\Mines\obj\Debug\SKTRaders.pdb
+I:\DryFruits\Mines\bin\Debug\SKTRaders.exe
+I:\DryFruits\Mines\bin\Debug\SKTRaders.pdb
+I:\DryFruits\Mines\obj\Debug\ResolveAssemblyReference.cache
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.AccountStatus.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.BackupDataBase.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.Billing.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.billingrep.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.Billrep.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.BillSearchReport.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.ChalanForm.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.ChallanDetailReport.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.Challanrep.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.ClientRep.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.ClientSearchReport.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.ChallanReport.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.ChallanDetailReport1.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.ConString.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.ItemReport_New.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.TaxInvoiceReportTransport.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.TaxInvoiceReportDuplicate.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.ExportXML.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.frm_BarcodePrint.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.PricerepBarcode.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.GstReportSale1.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.Databasebackup.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.GSTPurchaseReport.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.GstReportSale.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.GSTSaleReport.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.MaualChalanForm.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.PrintBarcode.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.PurchaseReport1.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.RawannaRep1.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.RawannaReport1.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.StockReport.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.TaxInvoiceRepor.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.ItemRep.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.ItemReport.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.TransporterRep.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.TransporterReport.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.PasswordChange.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.RawannaRep.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.RawannaReport.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.LabourMaster1.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.PurchaseDetailrep.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.PurchaseSummaryrep.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.PurchaseRegisterReport.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.Rowrep1.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.Rowrep.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.RowMaterialRegistrationReport.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.RawMaterialNew.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.EditBill.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.InvoiceReport.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.PrintPreview.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.SearchVoucher.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.ReceiptVoucher.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.DeliveredMaster.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.RawMaterial.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.SaleReport.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.DirectChallan.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.InventoryReport.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.TransportReport.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.ReceiveReport.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.IssueReport.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.ItemWiseSaleReport.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.ItemWiseReport.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.PurchaseReport.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.Process.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.Transport.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.Purchase.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.UnitMaster.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.Vechicle.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.FirmMaster.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.Form1.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.ItemMaster.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.LabourMaster.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.LabourRate.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.loginform.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.HomePage.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.PaymentVoucher.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.pendingrep.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.PendingRepamt.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.PendingReports.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.Pricelist.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.PriceLst.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.Properties.Resources.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.pricerep.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.SessionMaster.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.varification.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.voucherrep.resources
+I:\DryFruits\Mines\obj\Debug\WelcomeFabric.VoucherReport.resources
+I:\DryFruits\Mines\obj\Debug\DryFruits.csproj.GenerateResource.Cache
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\ResolveAssemblyReference.cache
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.AccountStatus.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.BackupDataBase.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Billing.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.billingrep.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Billrep.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.BillSearchReport.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ChalanForm.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ChallanDetailReport.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Challanrep.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ClientRep.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ClientSearchReport.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ChallanReport.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ChallanDetailReport1.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ConString.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ItemReport_New.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.TaxInvoiceReportTransport.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.TaxInvoiceReportDuplicate.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ExportXML.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.frm_BarcodePrint.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PricerepBarcode.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.GstReportSale1.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Databasebackup.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.GSTPurchaseReport.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.GstReportSale.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.GSTSaleReport.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.MaualChalanForm.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PrintBarcode.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseReport1.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.RawannaRep1.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.RawannaReport1.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.StockReport.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.TaxInvoiceRepor.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ItemRep.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ItemReport.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.TransporterRep.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.TransporterReport.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PasswordChange.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.RawannaRep.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.RawannaReport.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.LabourMaster1.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseDetailrep.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseSummaryrep.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseRegisterReport.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Rowrep1.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Rowrep.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.RowMaterialRegistrationReport.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.RawMaterialNew.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.EditBill.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.InvoiceReport.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PrintPreview.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.SearchVoucher.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ReceiptVoucher.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.DeliveredMaster.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.RawMaterial.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.SaleReport.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.DirectChallan.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.InventoryReport.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.TransportReport.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ReceiveReport.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.IssueReport.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ItemWiseSaleReport.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ItemWiseReport.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseReport.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Process.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Transport.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Purchase.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.UnitMaster.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Vechicle.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.FirmMaster.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Form1.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ItemMaster.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.LabourMaster.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.LabourRate.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.loginform.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.HomePage.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PaymentVoucher.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.pendingrep.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PendingRepamt.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PendingReports.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Pricelist.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PriceLst.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Properties.Resources.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.pricerep.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.SessionMaster.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.varification.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.voucherrep.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.VoucherReport.resources
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\DryFruits.csproj.GenerateResource.Cache
+E:\Lokesh\DryFruits Dausa\Mines\bin\Debug\DryFruits.exe.config
+E:\Lokesh\DryFruits Dausa\Mines\bin\Debug\DryFruits.exe
+E:\Lokesh\DryFruits Dausa\Mines\bin\Debug\DryFruits.pdb
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\DryFruits.exe
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\DryFruits.pdb
+E:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.CustomMsg.resources
+H:\Lokesh\DryFruits Dausa\Mines\bin\Debug\DryFruits.exe.config
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\DryFruits.exe
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\DryFruits.pdb
+H:\Lokesh\DryFruits Dausa\Mines\bin\Debug\DryFruits.exe
+H:\Lokesh\DryFruits Dausa\Mines\bin\Debug\DryFruits.pdb
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\ResolveAssemblyReference.cache
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.AccountStatus.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.BackupDataBase.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Billing.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.billingrep.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Billrep.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.BillSearchReport.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ChalanForm.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ChallanDetailReport.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Challanrep.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ClientRep.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ClientSearchReport.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ChallanReport.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ChallanDetailReport1.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ConString.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ItemReport_New.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.CustomMsg.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.TaxInvoiceReportTransport.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.TaxInvoiceReportDuplicate.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ExportXML.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.frm_BarcodePrint.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PricerepBarcode.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.GstReportSale1.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Databasebackup.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.GSTPurchaseReport.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.GstReportSale.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.GSTSaleReport.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.MaualChalanForm.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PrintBarcode.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseReport1.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.RawannaRep1.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.RawannaReport1.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.StockReport.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.TaxInvoiceRepor.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ItemRep.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ItemReport.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.TransporterRep.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.TransporterReport.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PasswordChange.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.RawannaRep.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.RawannaReport.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.LabourMaster1.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseDetailrep.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseSummaryrep.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseRegisterReport.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Rowrep1.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Rowrep.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.RowMaterialRegistrationReport.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.RawMaterialNew.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.EditBill.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.InvoiceReport.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PrintPreview.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.SearchVoucher.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ReceiptVoucher.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.DeliveredMaster.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.RawMaterial.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.SaleReport.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.DirectChallan.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.InventoryReport.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.TransportReport.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ReceiveReport.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.IssueReport.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ItemWiseSaleReport.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ItemWiseReport.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseReport.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Process.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Transport.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Purchase.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.UnitMaster.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Vechicle.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.FirmMaster.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Form1.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ItemMaster.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.LabourMaster.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.LabourRate.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.loginform.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.HomePage.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PaymentVoucher.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.pendingrep.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PendingRepamt.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PendingReports.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Pricelist.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PriceLst.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Properties.Resources.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.pricerep.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.SessionMaster.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.varification.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.voucherrep.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.VoucherReport.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\DryFruits.csproj.GenerateResource.Cache
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.UserMaster.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.MobileBill.resources
+H:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PartyApprove.resources
+I:\Lokesh\DryFruits Dausa\Mines\bin\Debug\DryFruits.exe.config
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\DryFruits.exe
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\DryFruits.pdb
+I:\Lokesh\DryFruits Dausa\Mines\bin\Debug\DryFruits.exe
+I:\Lokesh\DryFruits Dausa\Mines\bin\Debug\DryFruits.pdb
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\ResolveAssemblyReference.cache
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.AccountStatus.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.BackupDataBase.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Billing.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.billingrep.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Billrep.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.BillSearchReport.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ChalanForm.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ChallanDetailReport.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Challanrep.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ClientRep.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ClientSearchReport.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ChallanReport.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ChallanDetailReport1.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ConString.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ItemReport_New.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.CustomMsg.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.MobileBill.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PartyApprove.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.TaxInvoiceReportTransport.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.TaxInvoiceReportDuplicate.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ExportXML.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.frm_BarcodePrint.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PricerepBarcode.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.GstReportSale1.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Databasebackup.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.GSTPurchaseReport.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.GstReportSale.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.GSTSaleReport.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.MaualChalanForm.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PrintBarcode.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseReport1.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.RawannaRep1.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.RawannaReport1.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.StockReport.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.TaxInvoiceRepor.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ItemRep.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ItemReport.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.TransporterRep.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.TransporterReport.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PasswordChange.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.RawannaRep.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.RawannaReport.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.LabourMaster1.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseDetailrep.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseSummaryrep.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseRegisterReport.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Rowrep1.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Rowrep.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.RowMaterialRegistrationReport.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.RawMaterialNew.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.EditBill.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.InvoiceReport.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PrintPreview.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.SearchVoucher.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ReceiptVoucher.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.DeliveredMaster.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.RawMaterial.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.SaleReport.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.DirectChallan.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.InventoryReport.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.TransportReport.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ReceiveReport.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.IssueReport.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ItemWiseSaleReport.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ItemWiseReport.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseReport.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Process.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Transport.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Purchase.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.UnitMaster.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.UserMaster.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Vechicle.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.FirmMaster.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Form1.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.ItemMaster.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.LabourMaster.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.LabourRate.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.loginform.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.HomePage.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PaymentVoucher.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.pendingrep.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PendingRepamt.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PendingReports.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Pricelist.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.PriceLst.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.Properties.Resources.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.pricerep.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.SessionMaster.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.varification.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.voucherrep.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.VoucherReport.resources
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\DryFruits.csproj.GenerateResource.Cache
+I:\Lokesh\DryFruits Dausa\Mines\obj\Debug\WelcomeFabric.CategoryMaster.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\bin\Debug\DryFruits.exe.config
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\DryFruits.exe
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\DryFruits.pdb
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\bin\Debug\DryFruits.exe
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\bin\Debug\DryFruits.pdb
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\ResolveAssemblyReference.cache
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.AccountStatus.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.BackupDataBase.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Billing.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.billingrep.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Billrep.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.BillSearchReport.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ChalanForm.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ChallanDetailReport.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Challanrep.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ClientRep.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ClientSearchReport.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ChallanReport.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ChallanDetailReport1.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ConString.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.CategoryMaster.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ItemReport_New.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.CustomMsg.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.MobileBill.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PartyApprove.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.TaxInvoiceReportTransport.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.TaxInvoiceReportDuplicate.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ExportXML.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.frm_BarcodePrint.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PricerepBarcode.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.GstReportSale1.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Databasebackup.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.GSTPurchaseReport.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.GstReportSale.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.GSTSaleReport.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.MaualChalanForm.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PrintBarcode.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseReport1.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.RawannaRep1.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.RawannaReport1.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.StockReport.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.TaxInvoiceRepor.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ItemRep.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ItemReport.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.TransporterRep.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.TransporterReport.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PasswordChange.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.RawannaRep.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.RawannaReport.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.LabourMaster1.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseDetailrep.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseSummaryrep.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseRegisterReport.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Rowrep1.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Rowrep.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.RowMaterialRegistrationReport.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.RawMaterialNew.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.EditBill.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.InvoiceReport.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PrintPreview.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.SearchVoucher.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ReceiptVoucher.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.DeliveredMaster.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.RawMaterial.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.SaleReport.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.DirectChallan.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.InventoryReport.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.TransportReport.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ReceiveReport.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.IssueReport.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ItemWiseSaleReport.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ItemWiseReport.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseReport.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Process.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Transport.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Purchase.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.UnitMaster.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.UserMaster.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Vechicle.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.FirmMaster.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Form1.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ItemMaster.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.LabourMaster.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.LabourRate.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.loginform.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.HomePage.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PaymentVoucher.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.pendingrep.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PendingRepamt.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PendingReports.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Pricelist.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PriceLst.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Properties.Resources.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.pricerep.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.SessionMaster.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.varification.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.voucherrep.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.VoucherReport.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\DryFruits.csproj.GenerateResource.Cache
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.CategoryReport.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Show_Image.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.AppUserReport.resources
+D:\Gineej\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Report.rpt_frm.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\bin\Debug\DryFruits.exe.config
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\bin\Debug\DryFruits.exe
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\bin\Debug\DryFruits.pdb
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\ResolveAssemblyReference.cache
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.AccountStatus.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.BackupDataBase.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Billing.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.billingrep.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Billrep.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.BillSearchReport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.CategoryReport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ChalanForm.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ChallanDetailReport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Challanrep.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ClientRep.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ClientSearchReport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ChallanReport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ChallanDetailReport1.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ConString.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.CategoryMaster.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ChalanForm_NEW.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.CustomButton.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.SupplierTaxInvoiceReport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.AppUserReport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ItemReport_New.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.CustomMsg.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.MobileBill.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.mst_GSTMaster.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PartyApprove.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Report.rpt_frm.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Show_Image.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.TaxInvoiceReportTransport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.TaxInvoiceReportDuplicate.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ExportXML.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.frm_BarcodePrint.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PricerepBarcode.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.GstReportSale1.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Databasebackup.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.GSTPurchaseReport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.GstReportSale.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.GSTSaleReport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.MaualChalanForm.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PrintBarcode.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseReport1.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.RawannaRep1.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.RawannaReport1.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.StockReport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.TaxInvoiceRepor.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ItemRep.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ItemReport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.TransporterRep.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.TransporterReport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PasswordChange.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.RawannaRep.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.RawannaReport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.LabourMaster1.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseDetailrep.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseSummaryrep.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseRegisterReport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Rowrep1.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Rowrep.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.RowMaterialRegistrationReport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.RawMaterialNew.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.EditBill.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.InvoiceReport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PrintPreview.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.SearchVoucher.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ReceiptVoucher.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.DeliveredMaster.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.RawMaterial.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.SaleReport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.DirectChallan.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.InventoryReport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.TransportReport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ReceiveReport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.IssueReport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ItemWiseSaleReport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ItemWiseReport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseReport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Process.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Transport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Purchase.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.UnitMaster.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.UserMaster.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Vechicle.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.FirmMaster.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Form1.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ItemMaster.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.LabourMaster.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.LabourRate.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.loginform.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.HomePage.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PaymentVoucher.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.pendingrep.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PendingRepamt.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PendingReports.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Pricelist.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PriceLst.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Properties.Resources.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.pricerep.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.SessionMaster.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.varification.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.voucherrep.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.VoucherReport.resources
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\DryFruits.csproj.GenerateResource.Cache
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\DryFruits.exe
+I:\Lokesh\Sitaram Brijmohan Dausa\Mines\obj\Debug\DryFruits.pdb
+D:\Projects\Sitaram Brijmohan Dausa\Mines\bin\Debug\DryFruits.exe.config
+D:\Projects\Sitaram Brijmohan Dausa\Mines\bin\Debug\DryFruits.exe
+D:\Projects\Sitaram Brijmohan Dausa\Mines\bin\Debug\DryFruits.pdb
+D:\Projects\Sitaram Brijmohan Dausa\Mines\bin\Debug\Microsoft.SqlServer.Replication.dll
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.AccountStatus.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.BackupDataBase.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Billing.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.billingrep.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Billrep.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.BillSearchReport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.CategoryReport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ChalanForm.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ChallanDetailReport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Challanrep.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ClientRep.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ClientSearchReport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ChallanReport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ChallanDetailReport1.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ConString.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.CategoryMaster.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ChalanForm_NEW.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.TaxInvoiceReport_New.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PartyMaster.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.CustomButton.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.SupplierTaxInvoiceReport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.AppUserReport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ItemReport_New.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.CustomMsg.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.MobileBill.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.mst_GSTMaster.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PartyApprove.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Report.rpt_frm.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Show_Image.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.TaxInvoiceReportTransport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.TaxInvoiceReportDuplicate.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ExportXML.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.frm_BarcodePrint.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PricerepBarcode.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.GstReportSale1.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Databasebackup.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.GSTPurchaseReport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.GstReportSale.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.GSTSaleReport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.MaualChalanForm.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PrintBarcode.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseReport1.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.RawannaRep1.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.RawannaReport1.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.StockReport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.TaxInvoiceRepor.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ItemRep.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ItemReport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.TransporterRep.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.TransporterReport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PasswordChange.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.RawannaRep.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.RawannaReport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.LabourMaster1.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseDetailrep.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseSummaryrep.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseRegisterReport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Rowrep1.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Rowrep.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.RowMaterialRegistrationReport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.RawMaterialNew.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.EditBill.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.InvoiceReport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PrintPreview.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.SearchVoucher.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ReceiptVoucher.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.DeliveredMaster.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.RawMaterial.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.SaleReport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.DirectChallan.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.InventoryReport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.TransportReport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ReceiveReport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.IssueReport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ItemWiseSaleReport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ItemWiseReport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PurchaseReport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Process.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Transport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Purchase.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.UnitMaster.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.UserMaster.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Vechicle.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.FirmMaster.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Form1.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.ItemMaster.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.LabourMaster.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.LabourRate.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.loginform.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.HomePage.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PaymentVoucher.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.pendingrep.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PendingRepamt.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PendingReports.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Pricelist.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.PriceLst.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.Properties.Resources.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.pricerep.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.SessionMaster.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.varification.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.voucherrep.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\WelcomeFabric.VoucherReport.resources
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\DryFruits.csproj.GenerateResource.Cache
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\DryFruits.exe
+D:\Projects\Sitaram Brijmohan Dausa\Mines\obj\Debug\DryFruits.pdb

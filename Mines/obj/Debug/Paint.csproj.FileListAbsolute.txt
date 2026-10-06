@@ -1,0 +1,431 @@
+E:\Lokesh\Paint\Mines\Mines\bin\Debug\Mines.exe.config
+E:\Lokesh\Paint\Mines\Mines\bin\Debug\Mines.exe
+E:\Lokesh\Paint\Mines\Mines\bin\Debug\Mines.pdb
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\ResolveAssemblyReference.cache
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.AccountStatus.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.Billing.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.billingrep.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.Billrep.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.BillSearchReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.ChalanForm.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.ChallanDetailReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.Challanrep.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.ClientRep.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.ClientSearchReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.ChallanReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.ChallanDetailReport1.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines1.GSTPurchaseReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines1.GSTSaleReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.MaualChalanForm.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines1.PurchaseReport1.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.RawannaRep1.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.RawannaReport1.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.TaxInvoiceRepor.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.ItemRep.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.ItemReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.TransporterRep.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.TransporterReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.PasswordChange.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.RawannaRep.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.RawannaReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.LabourMaster1.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.PurchaseDetailrep.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.PurchaseSummaryrep.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.PurchaseRegisterReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.Rowrep1.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.Rowrep.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.RowMaterialRegistrationReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.RawMaterialNew.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines1.EditBill.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.InvoiceReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines1.PrintPreview.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.SearchVoucher.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.ReceiptVoucher.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.DeliveredMaster.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.RawMaterial.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.SaleReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.DirectChallan.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.InventoryReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.TransportReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.ReceiveReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.IssueReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.ItemWiseSaleReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.ItemWiseReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.PurchaseReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.Process.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.Transport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.Purchase.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines1.UnitMaster.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.Vechicle.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.FirmMaster.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.Form1.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.ItemMaster.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.LabourMaster.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.LabourRate.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.loginform.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.Mines.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.PaymentVoucher.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.pendingrep.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.PendingRepamt.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.PendingReports.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.Pricelist.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.PriceLst.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines1.Properties.Resources.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.pricerep.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.SessionMaster.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.varification.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.voucherrep.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.VoucherReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Paint.csproj.GenerateResource.Cache
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.exe
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.pdb
+E:\Lokesh\Paint\Paint\Mines\bin\Debug\Mines.exe.config
+E:\Lokesh\Paint\Paint\Mines\bin\Debug\Mines.exe
+E:\Lokesh\Paint\Paint\Mines\bin\Debug\Mines.pdb
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\ResolveAssemblyReference.cache
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.AccountStatus.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.Billing.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.billingrep.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.Billrep.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.BillSearchReport.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.ChalanForm.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.ChallanDetailReport.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.Challanrep.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.ClientRep.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.ClientSearchReport.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.ChallanReport.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.ChallanDetailReport1.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.GstReportSale1.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.Databasebackup.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines1.GSTPurchaseReport.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.GstReportSale.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines1.GSTSaleReport.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.MaualChalanForm.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines1.PurchaseReport1.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.RawannaRep1.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.RawannaReport1.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.TaxInvoiceRepor.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.ItemRep.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.ItemReport.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.TransporterRep.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.TransporterReport.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.PasswordChange.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.RawannaRep.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.RawannaReport.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.LabourMaster1.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.PurchaseDetailrep.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.PurchaseSummaryrep.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.PurchaseRegisterReport.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.Rowrep1.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.Rowrep.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.RowMaterialRegistrationReport.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.RawMaterialNew.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines1.EditBill.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.InvoiceReport.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines1.PrintPreview.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.SearchVoucher.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.ReceiptVoucher.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.DeliveredMaster.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.RawMaterial.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.SaleReport.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.DirectChallan.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.InventoryReport.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.TransportReport.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.ReceiveReport.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.IssueReport.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.ItemWiseSaleReport.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.ItemWiseReport.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.PurchaseReport.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.Process.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.Transport.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.Purchase.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines1.UnitMaster.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.Vechicle.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.FirmMaster.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.Form1.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.ItemMaster.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.LabourMaster.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.LabourRate.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.loginform.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.Mines.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.PaymentVoucher.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.pendingrep.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.PendingRepamt.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.PendingReports.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.Pricelist.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.PriceLst.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines1.Properties.Resources.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.pricerep.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.SessionMaster.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.varification.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.voucherrep.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.VoucherReport.resources
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Paint.csproj.GenerateResource.Cache
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.exe
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.pdb
+E:\Lokesh\Paint\Paint\Mines\obj\Debug\Mines.BackupDataBase.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\ResolveAssemblyReference.cache
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.AccountStatus.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.BackupDataBase.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.Billing.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.billingrep.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.Billrep.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.BillSearchReport.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.ChalanForm.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.ChallanDetailReport.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.Challanrep.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.ClientRep.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.ClientSearchReport.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.ChallanReport.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.ChallanDetailReport1.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.ConString.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.GstReportSale1.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.Databasebackup.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines1.GSTPurchaseReport.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.GstReportSale.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines1.GSTSaleReport.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.MaualChalanForm.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines1.PurchaseReport1.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.RawannaRep1.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.RawannaReport1.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.TaxInvoiceRepor.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.ItemRep.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.ItemReport.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.TransporterRep.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.TransporterReport.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.PasswordChange.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.RawannaRep.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.RawannaReport.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.LabourMaster1.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.PurchaseDetailrep.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.PurchaseSummaryrep.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.PurchaseRegisterReport.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.Rowrep1.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.Rowrep.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.RowMaterialRegistrationReport.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.RawMaterialNew.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines1.EditBill.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.InvoiceReport.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines1.PrintPreview.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.SearchVoucher.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.ReceiptVoucher.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.DeliveredMaster.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.RawMaterial.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.SaleReport.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.DirectChallan.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.InventoryReport.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.TransportReport.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.ReceiveReport.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.IssueReport.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.ItemWiseSaleReport.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.ItemWiseReport.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.PurchaseReport.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.Process.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.Transport.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.Purchase.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines1.UnitMaster.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.Vechicle.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.FirmMaster.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.Form1.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.ItemMaster.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.LabourMaster.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.LabourRate.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.loginform.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.Mines.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.PaymentVoucher.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.pendingrep.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.PendingRepamt.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.PendingReports.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.Pricelist.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.PriceLst.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines1.Properties.Resources.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.pricerep.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.SessionMaster.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.varification.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.voucherrep.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.VoucherReport.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Paint.csproj.GenerateResource.Cache
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\bin\Debug\Mines.exe.config
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\bin\Debug\Mines.exe
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\bin\Debug\Mines.pdb
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\bin\Debug\OnBarcode.Barcode.WinForms.dll
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.exe
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.pdb
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines.PricerepBarcode.resources
+\\USER-PC\Sharing\cm\Welcome Febric\Mines\obj\Debug\Mines1.PrintBarcode.resources
+E:\Lokesh\Welcome Febric\Mines\bin\Debug\Mines.exe.config
+E:\Lokesh\Welcome Febric\Mines\bin\Debug\Mines.exe
+E:\Lokesh\Welcome Febric\Mines\bin\Debug\Mines.pdb
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\ResolveAssemblyReference.cache
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.AccountStatus.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.BackupDataBase.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.Billing.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.billingrep.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.Billrep.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.BillSearchReport.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.ChalanForm.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.ChallanDetailReport.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.Challanrep.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.ClientRep.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.ClientSearchReport.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.ChallanReport.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.ChallanDetailReport1.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.ConString.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.PricerepBarcode.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.GstReportSale1.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.Databasebackup.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines1.GSTPurchaseReport.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.GstReportSale.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines1.GSTSaleReport.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.MaualChalanForm.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines1.PrintBarcode.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines1.PurchaseReport1.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.RawannaRep1.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.RawannaReport1.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.TaxInvoiceRepor.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.ItemRep.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.ItemReport.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.TransporterRep.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.TransporterReport.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.PasswordChange.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.RawannaRep.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.RawannaReport.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.LabourMaster1.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.PurchaseDetailrep.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.PurchaseSummaryrep.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.PurchaseRegisterReport.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.Rowrep1.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.Rowrep.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.RowMaterialRegistrationReport.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.RawMaterialNew.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines1.EditBill.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.InvoiceReport.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines1.PrintPreview.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.SearchVoucher.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.ReceiptVoucher.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.DeliveredMaster.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.RawMaterial.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.SaleReport.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.DirectChallan.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.InventoryReport.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.TransportReport.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.ReceiveReport.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.IssueReport.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.ItemWiseSaleReport.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.ItemWiseReport.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.PurchaseReport.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.Process.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.Transport.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.Purchase.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines1.UnitMaster.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.Vechicle.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.FirmMaster.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.Form1.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.ItemMaster.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.LabourMaster.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.LabourRate.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.loginform.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.Mines.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.PaymentVoucher.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.pendingrep.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.PendingRepamt.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.PendingReports.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.Pricelist.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.PriceLst.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines1.Properties.Resources.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.pricerep.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.SessionMaster.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.varification.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.voucherrep.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.VoucherReport.resources
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Paint.csproj.GenerateResource.Cache
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.exe
+E:\Lokesh\Welcome Febric\Mines\obj\Debug\Mines.pdb
+F:\Welcome Febric\Mines\bin\Debug\WelcomeFabric.exe.config
+F:\Welcome Febric\Mines\bin\Debug\WelcomeFabric.exe
+F:\Welcome Febric\Mines\bin\Debug\WelcomeFabric.pdb
+F:\Welcome Febric\Mines\obj\Debug\ResolveAssemblyReference.cache
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.AccountStatus.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.BackupDataBase.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.Billing.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.billingrep.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.Billrep.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.BillSearchReport.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.ChalanForm.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.ChallanDetailReport.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.Challanrep.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.ClientRep.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.ClientSearchReport.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.ChallanReport.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.ChallanDetailReport1.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.ConString.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.PricerepBarcode.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.GstReportSale1.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.Databasebackup.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.GSTPurchaseReport.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.GstReportSale.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.GSTSaleReport.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.MaualChalanForm.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.PrintBarcode.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.PurchaseReport1.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.RawannaRep1.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.RawannaReport1.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.TaxInvoiceRepor.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.ItemRep.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.ItemReport.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.TransporterRep.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.TransporterReport.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.PasswordChange.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.RawannaRep.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.RawannaReport.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.LabourMaster1.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.PurchaseDetailrep.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.PurchaseSummaryrep.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.PurchaseRegisterReport.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.Rowrep1.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.Rowrep.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.RowMaterialRegistrationReport.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.RawMaterialNew.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.EditBill.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.InvoiceReport.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.PrintPreview.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.SearchVoucher.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.ReceiptVoucher.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.DeliveredMaster.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.RawMaterial.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.SaleReport.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.DirectChallan.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.InventoryReport.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.TransportReport.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.ReceiveReport.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.IssueReport.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.ItemWiseSaleReport.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.ItemWiseReport.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.PurchaseReport.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.Process.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.Transport.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.Purchase.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.UnitMaster.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.Vechicle.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.FirmMaster.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.Form1.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.ItemMaster.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.LabourMaster.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.LabourRate.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.loginform.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.PaymentVoucher.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.pendingrep.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.PendingRepamt.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.PendingReports.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.Pricelist.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.PriceLst.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.Properties.Resources.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.pricerep.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.SessionMaster.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.varification.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.voucherrep.resources
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.VoucherReport.resources
+F:\Welcome Febric\Mines\obj\Debug\Paint.csproj.GenerateResource.Cache
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.exe
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.pdb
+F:\Welcome Febric\Mines\obj\Debug\WelcomeFabric.WelcomeFabrics.resources

@@ -1,0 +1,845 @@
+D:\Deepak\software\mines\Mines\Mines\bin\Debug\Mines.exe.config
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.exe
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.pdb
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\ResolveAssemblyReference.cache
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.AccountStatus.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.Billing.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.billingrep.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.Billrep.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.BillSearchReport.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.ChalanForm.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.ChallanDetailReport.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.Challanrep.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.ClientRep.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.ClientSearchReport.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.FirmMaster.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.Form1.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.ItemMaster.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.LabourMaster.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.LabourRate.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.loginform.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.Mines.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.PaymentVoucher.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.pendingrep.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.PendingRepamt.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.PendingReports.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.Pricelist.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.PriceLst.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines1.Properties.Resources.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.pricerep.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.varification.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.voucherrep.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.VoucherReport.resources
+D:\Deepak\software\mines\Mines\Mines\obj\Debug\Mines.csproj.GenerateResource.Cache
+D:\Deepak\software\mines\Mines\Mines\bin\Debug\Mines.exe
+D:\Deepak\software\mines\Mines\Mines\bin\Debug\Mines.pdb
+D:\Deepak\software\backup\mines\Mines\Mines\bin\Debug\Mines.exe.config
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.exe
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.pdb
+D:\Deepak\software\backup\mines\Mines\Mines\bin\Debug\Mines.exe
+D:\Deepak\software\backup\mines\Mines\Mines\bin\Debug\Mines.pdb
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\ResolveAssemblyReference.cache
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.AccountStatus.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.Billing.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.billingrep.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.Billrep.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.BillSearchReport.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.ChalanForm.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.ChallanDetailReport.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.Challanrep.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.ClientRep.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.ClientSearchReport.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.FirmMaster.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.Form1.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.ItemMaster.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.LabourMaster.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.LabourRate.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.loginform.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.Mines.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.PaymentVoucher.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.pendingrep.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.PendingRepamt.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.PendingReports.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.Pricelist.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.PriceLst.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines1.Properties.Resources.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.pricerep.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.varification.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.voucherrep.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.VoucherReport.resources
+D:\Deepak\software\backup\mines\Mines\Mines\obj\Debug\Mines.csproj.GenerateResource.Cache
+D:\Deepak\software\sessionmines\Mines\Mines\bin\Debug\Mines.exe.config
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.exe
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.pdb
+D:\Deepak\software\sessionmines\Mines\Mines\bin\Debug\Mines.exe
+D:\Deepak\software\sessionmines\Mines\Mines\bin\Debug\Mines.pdb
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\ResolveAssemblyReference.cache
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.AccountStatus.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.Billing.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.billingrep.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.Billrep.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.BillSearchReport.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.ChalanForm.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.ChallanDetailReport.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.Challanrep.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.ClientRep.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.ClientSearchReport.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.FirmMaster.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.Form1.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.ItemMaster.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.LabourMaster.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.LabourRate.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.loginform.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.Mines.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.PaymentVoucher.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.pendingrep.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.PendingRepamt.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.PendingReports.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.Pricelist.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.PriceLst.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines1.Properties.Resources.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.pricerep.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.varification.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.voucherrep.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.VoucherReport.resources
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.csproj.GenerateResource.Cache
+D:\Deepak\software\sessionmines\Mines\Mines\obj\Debug\Mines.SessionMaster.resources
+E:\sharing\sessionmines\Mines\Mines\bin\Debug\Mines.exe.config
+E:\sharing\sessionmines\Mines\Mines\obj\Debug\Mines.exe
+E:\sharing\sessionmines\Mines\Mines\obj\Debug\Mines.pdb
+D:\Kiran\sessionmines\Mines\Mines\bin\Debug\Mines.exe.config
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.exe
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.pdb
+D:\Kiran\sessionmines\Mines\Mines\bin\Debug\Mines.exe
+D:\Kiran\sessionmines\Mines\Mines\bin\Debug\Mines.pdb
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\ResolveAssemblyReference.cache
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.AccountStatus.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.Billing.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.billingrep.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.Billrep.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.BillSearchReport.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.ChalanForm.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.ChallanDetailReport.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.Challanrep.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.ClientRep.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.ClientSearchReport.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.FirmMaster.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.Form1.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.ItemMaster.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.LabourMaster.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.LabourRate.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.loginform.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.Mines.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.PaymentVoucher.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.pendingrep.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.PendingRepamt.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.PendingReports.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.Pricelist.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.PriceLst.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines1.Properties.Resources.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.pricerep.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.SessionMaster.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.varification.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.voucherrep.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.VoucherReport.resources
+D:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.csproj.GenerateResource.Cache
+E:\Kiran\sessionmines\Mines\Mines\bin\Debug\Mines.exe.config
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.exe
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.pdb
+E:\Kiran\sessionmines\Mines\Mines\bin\Debug\Mines.exe
+E:\Kiran\sessionmines\Mines\Mines\bin\Debug\Mines.pdb
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\ResolveAssemblyReference.cache
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.AccountStatus.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.Billing.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.billingrep.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.Billrep.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.BillSearchReport.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.ChalanForm.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.ChallanDetailReport.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.Challanrep.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.ClientRep.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.ClientSearchReport.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.FirmMaster.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.Form1.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.ItemMaster.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.LabourMaster.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.LabourRate.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.loginform.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.Mines.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.PaymentVoucher.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.pendingrep.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.PendingRepamt.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.PendingReports.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.Pricelist.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.PriceLst.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines1.Properties.Resources.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.pricerep.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.SessionMaster.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.varification.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.voucherrep.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.VoucherReport.resources
+E:\Kiran\sessionmines\Mines\Mines\obj\Debug\Mines.csproj.GenerateResource.Cache
+E:\Kiran\Software Application\sessionmines\Mines\Mines\bin\Debug\Mines.exe.config
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.exe
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.pdb
+E:\Kiran\Software Application\sessionmines\Mines\Mines\bin\Debug\Mines.exe
+E:\Kiran\Software Application\sessionmines\Mines\Mines\bin\Debug\Mines.pdb
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\ResolveAssemblyReference.cache
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.AccountStatus.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.Billing.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.billingrep.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.Billrep.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.BillSearchReport.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.ChalanForm.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.ChallanDetailReport.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.Challanrep.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.ClientRep.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.ClientSearchReport.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.FirmMaster.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.Form1.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.ItemMaster.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.LabourMaster.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.LabourRate.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.loginform.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.Mines.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.PaymentVoucher.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.pendingrep.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.PendingRepamt.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.PendingReports.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.Pricelist.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.PriceLst.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines1.Properties.Resources.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.pricerep.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.SessionMaster.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.varification.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.voucherrep.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.VoucherReport.resources
+E:\Kiran\Software Application\sessionmines\Mines\Mines\obj\Debug\Mines.csproj.GenerateResource.Cache
+D:\Shakti Singh\NewMines\Mines\Mines\bin\Debug\Mines.exe.config
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.exe
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.pdb
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\ResolveAssemblyReference.cache
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.AccountStatus.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.Billing.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.billingrep.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.Billrep.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.BillSearchReport.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.ChalanForm.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.ChallanDetailReport.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.Challanrep.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.ClientRep.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.ClientSearchReport.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.FirmMaster.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.Form1.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.ItemMaster.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.LabourMaster.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.LabourRate.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.loginform.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.Mines.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.PaymentVoucher.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.pendingrep.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.PendingRepamt.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.PendingReports.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.Pricelist.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.PriceLst.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines1.Properties.Resources.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.pricerep.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.SessionMaster.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.varification.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.voucherrep.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.VoucherReport.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.csproj.GenerateResource.Cache
+D:\Shakti Singh\NewMines\Mines\Mines\bin\Debug\Mines.exe
+D:\Shakti Singh\NewMines\Mines\Mines\bin\Debug\Mines.pdb
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.Vechicle.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.Purchase.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.Transport.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.Process.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.PurchaseReport.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.ItemWiseReport.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.ItemWiseSaleReport.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.IssueReport.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.ReceiveReport.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.TransportReport.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.InventoryReport.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.DirectChallan.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.SaleReport.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.RawMaterial.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.DeliveredMaster.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.ReceiptVoucher.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.SearchVoucher.resources
+D:\Shakti Singh\NewMines\Mines\Mines\obj\Debug\Mines.ChallanReport.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\bin\Debug\Mines.exe.config
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.exe
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.pdb
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\bin\Debug\Mines.exe
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\bin\Debug\Mines.pdb
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\ResolveAssemblyReference.cache
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.AccountStatus.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.Billing.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.billingrep.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.Billrep.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.BillSearchReport.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.ChalanForm.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.ChallanDetailReport.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.Challanrep.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.ClientRep.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.ClientSearchReport.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.ChallanReport.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.SearchVoucher.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.ReceiptVoucher.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.DeliveredMaster.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.RawMaterial.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.SaleReport.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.DirectChallan.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.InventoryReport.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.TransportReport.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.ReceiveReport.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.IssueReport.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.ItemWiseSaleReport.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.ItemWiseReport.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.PurchaseReport.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.Process.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.Transport.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.Purchase.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.Vechicle.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.FirmMaster.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.Form1.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.ItemMaster.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.LabourMaster.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.LabourRate.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.loginform.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.Mines.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.PaymentVoucher.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.pendingrep.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.PendingRepamt.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.PendingReports.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.Pricelist.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.PriceLst.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines1.Properties.Resources.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.pricerep.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.SessionMaster.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.varification.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.voucherrep.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.VoucherReport.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.csproj.GenerateResource.Cache
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines1.PrintPreview.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines.InvoiceReport.resources
+E:\CLIENT PROJECT DATA\SS Compusoft\Minessoft\Mines\Mines\obj\Debug\Mines1.EditBill.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\bin\Debug\Mines.exe.config
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.exe
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.pdb
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\bin\Debug\Mines.exe
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\bin\Debug\Mines.pdb
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\ResolveAssemblyReference.cache
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.AccountStatus.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.Billing.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.billingrep.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.Billrep.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.BillSearchReport.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.ChalanForm.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.ChallanDetailReport.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.Challanrep.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.ClientRep.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.ClientSearchReport.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.ChallanReport.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines1.EditBill.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.InvoiceReport.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines1.PrintPreview.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.SearchVoucher.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.ReceiptVoucher.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.DeliveredMaster.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.RawMaterial.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.SaleReport.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.DirectChallan.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.InventoryReport.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.TransportReport.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.ReceiveReport.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.IssueReport.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.ItemWiseSaleReport.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.ItemWiseReport.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.PurchaseReport.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.Process.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.Transport.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.Purchase.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.Vechicle.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.FirmMaster.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.Form1.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.ItemMaster.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.LabourMaster.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.LabourRate.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.loginform.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.Mines.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.PaymentVoucher.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.pendingrep.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.PendingRepamt.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.PendingReports.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.Pricelist.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.PriceLst.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines1.Properties.Resources.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.pricerep.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.SessionMaster.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.varification.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.voucherrep.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.VoucherReport.resources
+C:\DesktopSoft\SSCPL\SSCPL\Mines\Mines\obj\Debug\Mines.csproj.GenerateResource.Cache
+D:\Chittar\Mines\Mines\bin\Debug\Mines.exe.config
+D:\Chittar\Mines\Mines\obj\Debug\Mines.exe
+D:\Chittar\Mines\Mines\obj\Debug\Mines.pdb
+D:\Chittar\Mines\Mines\bin\Debug\Mines.exe
+D:\Chittar\Mines\Mines\bin\Debug\Mines.pdb
+D:\Chittar\Mines\Mines\obj\Debug\ResolveAssemblyReference.cache
+D:\Chittar\Mines\Mines\obj\Debug\Mines.AccountStatus.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.Billing.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.billingrep.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.Billrep.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.BillSearchReport.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.ChalanForm.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.ChallanDetailReport.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.Challanrep.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.ClientRep.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.ClientSearchReport.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.ChallanReport.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines1.EditBill.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.InvoiceReport.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines1.PrintPreview.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.SearchVoucher.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.ReceiptVoucher.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.DeliveredMaster.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.RawMaterial.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.SaleReport.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.DirectChallan.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.InventoryReport.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.TransportReport.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.ReceiveReport.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.IssueReport.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.ItemWiseSaleReport.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.ItemWiseReport.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.PurchaseReport.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.Process.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.Transport.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.Purchase.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.Vechicle.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.FirmMaster.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.Form1.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.ItemMaster.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.LabourMaster.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.LabourRate.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.loginform.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.Mines.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.PaymentVoucher.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.pendingrep.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.PendingRepamt.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.PendingReports.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.Pricelist.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.PriceLst.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines1.Properties.Resources.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.pricerep.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.SessionMaster.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.varification.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.voucherrep.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.VoucherReport.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.csproj.GenerateResource.Cache
+D:\Chittar\Mines\Mines\obj\Debug\Mines.ChallanDetailReport1.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.RawMaterialNew.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.RowMaterialRegistrationReport.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.Rowrep.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.Rowrep1.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.PurchaseRegisterReport.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.PurchaseSummaryrep.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.PurchaseDetailrep.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.LabourMaster1.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.RawannaReport.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.RawannaRep.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.PasswordChange.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.TransporterReport.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.TransporterRep.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.ItemReport.resources
+D:\Chittar\Mines\Mines\obj\Debug\Mines.ItemRep.resources
+F:\chhitar\Mines\Mines\bin\Debug\Mines.exe.config
+F:\chhitar\Mines\Mines\obj\Debug\Mines.exe
+F:\chhitar\Mines\Mines\obj\Debug\Mines.pdb
+F:\chhitar\Mines\Mines\bin\Debug\Mines.exe
+F:\chhitar\Mines\Mines\bin\Debug\Mines.pdb
+F:\chhitar\Mines\Mines\obj\Debug\ResolveAssemblyReference.cache
+F:\chhitar\Mines\Mines\obj\Debug\Mines.AccountStatus.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.Billing.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.billingrep.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.Billrep.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.BillSearchReport.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.ChalanForm.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.ChallanDetailReport.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.Challanrep.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.ClientRep.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.ClientSearchReport.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.ChallanReport.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.ChallanDetailReport1.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.ItemRep.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.ItemReport.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.TransporterRep.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.TransporterReport.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.PasswordChange.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.RawannaRep.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.RawannaReport.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.LabourMaster1.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.PurchaseDetailrep.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.PurchaseSummaryrep.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.PurchaseRegisterReport.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.Rowrep1.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.Rowrep.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.RowMaterialRegistrationReport.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.RawMaterialNew.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines1.EditBill.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.InvoiceReport.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines1.PrintPreview.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.SearchVoucher.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.ReceiptVoucher.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.DeliveredMaster.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.RawMaterial.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.SaleReport.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.DirectChallan.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.InventoryReport.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.TransportReport.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.ReceiveReport.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.IssueReport.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.ItemWiseSaleReport.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.ItemWiseReport.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.PurchaseReport.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.Process.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.Transport.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.Purchase.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.Vechicle.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.FirmMaster.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.Form1.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.ItemMaster.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.LabourMaster.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.LabourRate.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.loginform.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.Mines.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.PaymentVoucher.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.pendingrep.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.PendingRepamt.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.PendingReports.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.Pricelist.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.PriceLst.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines1.Properties.Resources.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.pricerep.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.SessionMaster.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.varification.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.voucherrep.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.VoucherReport.resources
+F:\chhitar\Mines\Mines\obj\Debug\Mines.csproj.GenerateResource.Cache
+F:\chhitar\Mines\Mines\obj\Debug\Mines.TaxInvoiceRepor.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\bin\Debug\Mines.exe.config
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.exe
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.pdb
+F:\chhitar\neem ka thana mines\Mines\Mines\bin\Debug\Mines.exe
+F:\chhitar\neem ka thana mines\Mines\Mines\bin\Debug\Mines.pdb
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\ResolveAssemblyReference.cache
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.AccountStatus.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Billing.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.billingrep.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Billrep.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.BillSearchReport.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ChalanForm.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ChallanDetailReport.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Challanrep.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ClientRep.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ClientSearchReport.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ChallanReport.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ChallanDetailReport1.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.TaxInvoiceRepor.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ItemRep.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ItemReport.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.TransporterRep.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.TransporterReport.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PasswordChange.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.RawannaRep.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.RawannaReport.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.LabourMaster1.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PurchaseDetailrep.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PurchaseSummaryrep.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PurchaseRegisterReport.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Rowrep1.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Rowrep.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.RowMaterialRegistrationReport.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.RawMaterialNew.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines1.EditBill.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.InvoiceReport.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines1.PrintPreview.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.SearchVoucher.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ReceiptVoucher.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.DeliveredMaster.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.RawMaterial.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.SaleReport.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.DirectChallan.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.InventoryReport.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.TransportReport.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ReceiveReport.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.IssueReport.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ItemWiseSaleReport.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ItemWiseReport.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PurchaseReport.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Process.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Transport.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Purchase.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Vechicle.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.FirmMaster.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Form1.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ItemMaster.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.LabourMaster.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.LabourRate.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.loginform.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Mines.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PaymentVoucher.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.pendingrep.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PendingRepamt.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PendingReports.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Pricelist.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PriceLst.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines1.Properties.Resources.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.pricerep.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.SessionMaster.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.varification.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.voucherrep.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.VoucherReport.resources
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines.csproj.GenerateResource.Cache
+F:\chhitar\neem ka thana mines\Mines\Mines\obj\Debug\Mines1.UnitMaster.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\bin\Debug\Mines.exe.config
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.exe
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.pdb
+E:\Lokesh\neem ka thana mines\Mines\Mines\bin\Debug\Mines.exe
+E:\Lokesh\neem ka thana mines\Mines\Mines\bin\Debug\Mines.pdb
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\ResolveAssemblyReference.cache
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.AccountStatus.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Billing.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.billingrep.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Billrep.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.BillSearchReport.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ChalanForm.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ChallanDetailReport.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Challanrep.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ClientRep.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ClientSearchReport.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ChallanReport.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ChallanDetailReport1.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.TaxInvoiceRepor.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ItemRep.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ItemReport.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.TransporterRep.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.TransporterReport.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PasswordChange.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.RawannaRep.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.RawannaReport.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.LabourMaster1.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PurchaseDetailrep.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PurchaseSummaryrep.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PurchaseRegisterReport.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Rowrep1.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Rowrep.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.RowMaterialRegistrationReport.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.RawMaterialNew.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines1.EditBill.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.InvoiceReport.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines1.PrintPreview.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.SearchVoucher.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ReceiptVoucher.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.DeliveredMaster.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.RawMaterial.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.SaleReport.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.DirectChallan.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.InventoryReport.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.TransportReport.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ReceiveReport.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.IssueReport.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ItemWiseSaleReport.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ItemWiseReport.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PurchaseReport.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Process.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Transport.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Purchase.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines1.UnitMaster.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Vechicle.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.FirmMaster.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Form1.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ItemMaster.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.LabourMaster.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.LabourRate.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.loginform.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Mines.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PaymentVoucher.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.pendingrep.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PendingRepamt.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PendingReports.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Pricelist.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PriceLst.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines1.Properties.Resources.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.pricerep.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.SessionMaster.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.varification.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.voucherrep.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.VoucherReport.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.csproj.GenerateResource.Cache
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\bin\Debug\Mines.exe.config
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.exe
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.pdb
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\bin\Debug\Mines.exe
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\bin\Debug\Mines.pdb
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\ResolveAssemblyReference.cache
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.AccountStatus.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Billing.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.billingrep.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Billrep.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.BillSearchReport.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ChalanForm.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ChallanDetailReport.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Challanrep.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ClientRep.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ClientSearchReport.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ChallanReport.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ChallanDetailReport1.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.TaxInvoiceRepor.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ItemRep.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ItemReport.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.TransporterRep.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.TransporterReport.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PasswordChange.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.RawannaRep.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.RawannaReport.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.LabourMaster1.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PurchaseDetailrep.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PurchaseSummaryrep.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PurchaseRegisterReport.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Rowrep1.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Rowrep.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.RowMaterialRegistrationReport.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.RawMaterialNew.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines1.EditBill.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.InvoiceReport.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines1.PrintPreview.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.SearchVoucher.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ReceiptVoucher.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.DeliveredMaster.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.RawMaterial.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.SaleReport.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.DirectChallan.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.InventoryReport.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.TransportReport.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ReceiveReport.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.IssueReport.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ItemWiseSaleReport.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ItemWiseReport.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PurchaseReport.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Process.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Transport.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Purchase.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines1.UnitMaster.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Vechicle.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.FirmMaster.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Form1.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.ItemMaster.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.LabourMaster.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.LabourRate.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.loginform.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Mines.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PaymentVoucher.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.pendingrep.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PendingRepamt.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PendingReports.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.Pricelist.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.PriceLst.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines1.Properties.Resources.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.pricerep.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.SessionMaster.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.varification.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.voucherrep.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.VoucherReport.resources
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.csproj.GenerateResource.Cache
+\\AM15\Sharing\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.MaualChalanForm.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.MaualChalanForm.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.RawannaReport1.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines.RawannaRep1.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines1.GSTSaleReport.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines1.GSTPurchaseReport.resources
+E:\Lokesh\neem ka thana mines\Mines\Mines\obj\Debug\Mines1.PurchaseReport1.resources
+E:\Lokesh\Paint\Mines\Mines\bin\Debug\Mines.exe.config
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.exe
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.pdb
+E:\Lokesh\Paint\Mines\Mines\bin\Debug\Mines.exe
+E:\Lokesh\Paint\Mines\Mines\bin\Debug\Mines.pdb
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\ResolveAssemblyReference.cache
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.AccountStatus.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.Billing.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.billingrep.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.Billrep.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.BillSearchReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.ChalanForm.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.ChallanDetailReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.Challanrep.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.ClientRep.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.ClientSearchReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.ChallanReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.ChallanDetailReport1.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines1.GSTPurchaseReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines1.GSTSaleReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.MaualChalanForm.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines1.PurchaseReport1.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.RawannaRep1.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.RawannaReport1.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.TaxInvoiceRepor.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.ItemRep.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.ItemReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.TransporterRep.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.TransporterReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.PasswordChange.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.RawannaRep.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.RawannaReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.LabourMaster1.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.PurchaseDetailrep.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.PurchaseSummaryrep.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.PurchaseRegisterReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.Rowrep1.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.Rowrep.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.RowMaterialRegistrationReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.RawMaterialNew.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines1.EditBill.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.InvoiceReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines1.PrintPreview.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.SearchVoucher.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.ReceiptVoucher.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.DeliveredMaster.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.RawMaterial.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.SaleReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.DirectChallan.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.InventoryReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.TransportReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.ReceiveReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.IssueReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.ItemWiseSaleReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.ItemWiseReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.PurchaseReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.Process.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.Transport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.Purchase.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines1.UnitMaster.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.Vechicle.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.FirmMaster.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.Form1.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.ItemMaster.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.LabourMaster.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.LabourRate.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.loginform.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.Mines.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.PaymentVoucher.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.pendingrep.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.PendingRepamt.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.PendingReports.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.Pricelist.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.PriceLst.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines1.Properties.Resources.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.pricerep.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.SessionMaster.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.varification.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.voucherrep.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.VoucherReport.resources
+E:\Lokesh\Paint\Mines\Mines\obj\Debug\Mines.csproj.GenerateResource.Cache
