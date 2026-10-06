@@ -514,7 +514,7 @@ namespace WelcomeFabric
             this.grdtest1.Name = "grdtest1";
             this.grdtest1.ReadOnly = true;
             this.grdtest1.RowHeadersVisible = false;
-            this.grdtest1.Size = new System.Drawing.Size(1270, 887);
+            this.grdtest1.Size = new System.Drawing.Size(1270, 400);
             this.grdtest1.TabIndex = 8;
             this.grdtest1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.grdtest1_CellContentClick);
             // 
@@ -2347,7 +2347,7 @@ namespace WelcomeFabric
             this.panel4.Controls.SetChildIndex(this.label24, 0);
             this.panel4.Controls.SetChildIndex(this.textBox1, 0);
             this.panel4.Controls.SetChildIndex(this.label6, 0);
-            this.panel4.Controls.SetChildIndex(this.lst, this.panel4.Controls.Count - 1);
+            this.panel4.Controls.SetChildIndex(this.lst, 6);
             // 
             // panel5
             // 
@@ -2481,18 +2481,6 @@ namespace WelcomeFabric
             this.panelRecordEntry.BackColor = System.Drawing.SystemColors.Control;
 
             // Move the complete record-entry controls into their own top bar.
-            this.groupBox3.Controls.Remove(this.label16);
-            this.groupBox3.Controls.Remove(this.drpitem);
-            this.groupBox3.Controls.Remove(this.label14);
-            this.groupBox3.Controls.Remove(this.dtpUnit);
-            this.groupBox3.Controls.Remove(this.label8);
-            this.groupBox3.Controls.Remove(this.txtqty);
-            this.groupBox3.Controls.Remove(this.label5);
-            this.groupBox3.Controls.Remove(this.txtrate);
-            this.groupBox3.Controls.Remove(this.label9);
-            this.groupBox3.Controls.Remove(this.txtamout);
-            this.groupBox3.Controls.Remove(this.btnadd);
-            this.groupBox3.Controls.Remove(this.button3);
 
             this.panelRecordEntry.Controls.Add(this.label16);
             this.panelRecordEntry.Controls.Add(this.drpitem);
@@ -2541,50 +2529,52 @@ namespace WelcomeFabric
             this.panelRecordEntry.ResumeLayout(false);
             this.panelRecordEntry.PerformLayout();
 
-            // =====================================================
-            // FINAL LAYOUT
-            // Record Entry -> Grid -> Bottom/Total Controls
-            // =====================================================
+            // Reserve a footer for totals, invoice actions, and report actions.
+            // Reparenting keeps the report buttons above the full-screen background.
+            this.panel8.Height = 150;
+            this.panel8.AutoScroll = true;
+            this.panel8.AutoScrollMinSize = new System.Drawing.Size(950, 150);
+            this.panel8.Controls.Add(this.btnAll);
+            this.btnAll.Location = new System.Drawing.Point(22, 112);
+            this.btnAll.Size = new System.Drawing.Size(128, 28);
+            this.btnAll.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left;
+            this.panel8.Controls.Add(this.BtnWithoutPrice);
+            this.BtnWithoutPrice.Location = new System.Drawing.Point(158, 112);
+            this.BtnWithoutPrice.Size = new System.Drawing.Size(128, 28);
+            this.BtnWithoutPrice.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left;
+            this.panel8.Controls.Add(this.BtnWithQty);
+            this.BtnWithQty.Location = new System.Drawing.Point(294, 112);
+            this.BtnWithQty.Size = new System.Drawing.Size(128, 28);
+            this.BtnWithQty.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left;
+            this.panel8.Controls.Add(this.btnGST);
+            this.btnGST.Location = new System.Drawing.Point(430, 112);
+            this.btnGST.Size = new System.Drawing.Size(128, 28);
+            this.btnGST.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left;
+            this.panel8.Controls.Add(this.btnLabel);
+            this.btnLabel.Location = new System.Drawing.Point(566, 112);
+            this.btnLabel.Size = new System.Drawing.Size(128, 28);
+            this.btnLabel.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left;
 
-            // Record-entry bar stays at the top.
-            this.panelRecordEntry.Dock = System.Windows.Forms.DockStyle.None;
-            this.panelRecordEntry.Anchor =
-                System.Windows.Forms.AnchorStyles.Top |
-                System.Windows.Forms.AnchorStyles.Left |
-                System.Windows.Forms.AnchorStyles.Right;
-            this.panelRecordEntry.Location = new System.Drawing.Point(3, 3);
-            this.panelRecordEntry.Size = new System.Drawing.Size(1270, 62);
+            // Preserve the purchase-only reference field outside the grid area.
+            this.panel8.Controls.Add(this.label40);
+            this.panel8.Controls.Add(this.textBox2);
+            this.label40.Location = new System.Drawing.Point(22, 117);
+            this.textBox2.Location = new System.Drawing.Point(180, 112);
 
-            // Grid starts BELOW the record-entry bar.
-            // Do NOT anchor it to Bottom, otherwise it covers the controls
-            // placed below the grid inside groupBox3.
-            // ===============================
-            // GRID
-            // ===============================
-
-            this.grdtest1.Dock = System.Windows.Forms.DockStyle.None;
-
-            this.grdtest1.Anchor =
-                System.Windows.Forms.AnchorStyles.Top |
-                System.Windows.Forms.AnchorStyles.Bottom |
-                System.Windows.Forms.AnchorStyles.Left |
-                System.Windows.Forms.AnchorStyles.Right;
-
-            // Record Entry ke just niche
-            this.grdtest1.Location = new System.Drawing.Point(3, 68);
-
-            // Bottom section ke upar tak
-            this.grdtest1.Size = new System.Drawing.Size(
-                this.groupBox3.ClientSize.Width - 6,
-                this.groupBox3.ClientSize.Height - 245
-            );
-
+            // Dock in order: entry bar at the top, grid in the remaining space.
+            this.panelRecordEntry.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panelRecordEntry.Height = 62;
+            this.panelRecordEntry.AutoScroll = true;
+            this.panelRecordEntry.AutoScrollMinSize = new System.Drawing.Size(945, 62);
+            this.grdtest1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.groupBox3.Controls.SetChildIndex(this.grdtest1, 0);
+            this.groupBox3.Controls.SetChildIndex(this.panelRecordEntry, 1);
+            this.panel7.Controls.SetChildIndex(this.groupBox3, 0);
+            this.panel7.Controls.SetChildIndex(this.panel8, 1);
             this.grdtest1.ColumnHeadersVisible = true;
             this.grdtest1.RowHeadersVisible = false;
             this.grdtest1.ColumnHeadersHeight = 24;
-            this.grdtest1.AutoSizeRowsMode =
-                System.Windows.Forms.DataGridViewAutoSizeRowsMode.None;
-
+            this.grdtest1.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.None;
 
             this.groupBox3.ResumeLayout(false);
             this.groupBox3.PerformLayout();

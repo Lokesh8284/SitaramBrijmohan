@@ -1627,8 +1627,14 @@ namespace WelcomeFabric
 
         private void BtnWithQty_Click(object sender, EventArgs e)
         {
+            // The fill-sized grid must stay behind this unit-selection overlay.
+            panel2.Anchor = AnchorStyles.None;
+            panel2.Location = new Point(
+                Math.Max(0, (panel2.Parent.ClientSize.Width - panel2.Width) / 2),
+                Math.Max(0, (panel2.Parent.ClientSize.Height - panel2.Height) / 2));
             panel2.Visible = true;
-            panel2.Focus();
+            panel2.BringToFront();
+            txtStyle.Focus();
         }
 
         private void btnGST_Click(object sender, EventArgs e)
